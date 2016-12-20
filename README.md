@@ -112,3 +112,4 @@ the use or non-use of this software.
 Original Author: Alex Samorukov <samm@os2.kiev.ua>
 
 2015-2016 revisions author: Jeff Vier <jeff@jeffvier.com>
+2016-2017 revisions author: Ruben Suarez <rubensa@gmail.com>
