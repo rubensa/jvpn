@@ -153,7 +153,7 @@ my $ua = LWP::UserAgent->new;
 if(defined &LWP::UserAgent::ssl_opts) {
     $ua->ssl_opts('verify_hostname' => $verifycert);
     if (!$verifycert) {
-      $ua->ssl_opts('SSL_verify_mode' => '0x00');
+      $ua->ssl_opts('SSL_verify_mode' => 0x00);
     }
 }
 $ua->cookie_jar({});
