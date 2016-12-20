@@ -1,3 +1,7 @@
+*** 0.8.2
+ # fixes 500 SSL_verify_mode must be a number and not a string when
+   "verifycert" is disabled
+
 *** 0.8.1 (jv)
  + Support Pulse Secure / Duo Push
 
